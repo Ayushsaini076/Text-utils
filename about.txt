@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Noto Sans Tamil Supplement
+- Font Author: Copyright 2019 Google LLC. All Rights Reserved.
+- Font Source: http://fonts.gstatic.com/s/notosanstamilsupplement/v19/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax_vsAeMkeq1x.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
